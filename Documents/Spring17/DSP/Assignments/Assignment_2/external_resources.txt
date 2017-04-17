@@ -1,0 +1,7 @@
+This file contains the external resources used throughout the assingment
+
+
+
+
+	https://en.wikipedia.org/wiki/WAV
+	
